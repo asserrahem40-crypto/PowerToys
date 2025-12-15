@@ -1,4 +1,4 @@
-1اكسبت<p align="center"1xpt
+<p align="center"1xpt
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./doc/images/readme/pt-hero.light.png" />
       <img src="./doc/images/readme/pt-hero.dark.png" />
